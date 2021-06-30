@@ -1,73 +1,73 @@
 <?php
     $albums = [
         [
-            "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
-            "title" => "New Jersey",
-            "author" => "Bon Jovi",
-            "genre" => "Rock",
-            "year" => "1988"
+            "poster" => "https://img.discogs.com/pH7XE7SxQT6GPaILz7I1KhH6oqo=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11481422-1601619080-8594.jpeg.jpg",
+            "title" => "Flume",
+            "author" => "Skin",
+            "genre" => "Electronic",
+            "year" => "2016"
         ],
         [
-            "poster" => "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg",
-            "title" => "Live at Wembley 86",
-            "author" => "Queen",
-            "genre" => "Pop",
-            "year" => "1992"
+            "poster" => "https://img.discogs.com/plh8LBQniRHhM4Qj9K8Dv5c8M1U=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3148830-1318015914.jpeg.jpg",
+            "title" => "Glass Swords",
+            "author" => "Rustie",
+            "genre" => "Electronic",
+            "year" => "2011"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg",
-            "title" => "Ten's Summoner's Tales",
-            "author" => "Sting",
-            "genre" => "Pop",
-            "year" => "1993"
+            "poster" => "https://img.discogs.com/lEpKVWCgWCyqJJvm3ioLAItDXPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13778954-1560935460-9842.jpeg.jpg",
+            "title" => "Sequence",
+            "author" => "Quiet Bison",
+            "genre" => "Electronic",
+            "year" => "2019"
         ],
         [
-            "poster" => "https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg",
-            "title" => "Steve Gadd Band",
-            "author" => "Steve Gadd Band",
-            "genre" => "Jazz",
+            "poster" => "https://img.discogs.com/-y-tDvplhSnNOh8k4gqJR0-JNPw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866637-1486235239-3229.jpeg.jpg",
+            "title" => "DIE",
+            "author" => "IOSONOUNCANE",
+            "genre" => "Experimental",
+            "year" => "2015"
+        ],
+        [
+            "poster" => "https://img.discogs.com/eWYIZcb9mmePzZlYYO13hVrAdrw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7081234-1433261770-2205.jpeg.jpg",
+            "title" => "In Colour",
+            "author" => "Jamie XX",
+            "genre" => "Electronic",
+            "year" => "2015"
+        ],
+        [
+            "poster" => "https://img.discogs.com/B6ShJQ7dSASBdYkpgwKqxIg1MGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14288191-1571508926-1752.jpeg.jpg",
+            "title" => "Crush",
+            "author" => "Floating Points",
+            "genre" => "Experimental",
+            "year" => "2019"
+        ],
+        [
+            "poster" => "https://img.discogs.com/HCsAsYGp4mcSK8UmNJ_zLMizc2U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11882246-1524050573-9018.jpeg.jpg",
+            "title" => "Persona",
+            "author" => "Rival Consoles",
+            "genre" => "Electronic",
             "year" => "2018"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
-            "title" => "Brave new World",
-            "author" => "Iron Maiden",
-            "genre" => "Metal",
-            "year" => "2000"
+            "poster" => "https://img.discogs.com/c9LLGdpTdH-ol5TxMaVDQNnkLIk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16287739-1606623292-3184.png.jpg",
+            "title" => "El Último Tour Del Mundo",
+            "author" => "Bad Bunny",
+            "genre" => "Latin",
+            "year" => "2020"
         ],
         [
-            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
-            "title" => "One more car, one more raider",
-            "author" => "Eric Clapton",
-            "genre" => "Rock",
-            "year" => "2002"
+            "poster" => "https://img.discogs.com/7lpDBmDou-7g_Hp_-ZcZ-2KH_C4=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8282220-1608840532-9109.jpeg.jpg",
+            "title" => "III",
+            "author" => "Moderat",
+            "genre" => "Electronic",
+            "year" => "2016"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
-            "title" => "Made in Japan",
-            "author" => "Deep Purple",
-            "genre" => "Rock",
-            "year" => "1972"
-        ],
-        [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
-            "title" => "And Justice for All",
-            "author" => "Metallica",
-            "genre" => "Metal",
-            "year" => "1988"
-        ],
-        [
-            "poster" => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title" => "Hard Wired",
-            "author" => "Dave Weckl",
-            "genre" => "Jazz",
-            "year" => "1994"
-        ],
-        [
-            "poster" => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title" => "Bad",
-            "author" => "Michael Jackson",
-            "genre" => "Pop",
-            "year" => "1987"
+            "poster" => "https://img.discogs.com/qRrutZpB_QSWqQ2gVM65TiZSiKM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6393242-1418131494-6919.jpeg.jpg",
+            "title" => "Sempiternal",
+            "author" => "Bring Me The Horizon",
+            "genre" => "Deathcore",
+            "year" => "2013"
         ]
     ];

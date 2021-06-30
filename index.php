@@ -24,6 +24,7 @@
                     <img src="<?= $album["poster"]?>" alt="<?= $album["author"].'-'.$album["title"]?>">
                     <h2><?= $album["title"]?></h2>
                     <h3><?= $album["author"]?></h3>
+                    <span><?= $album["genre"]?></span>
                     <span><?= $album["year"]?></span>
                 </div>
             <?php } ?>
