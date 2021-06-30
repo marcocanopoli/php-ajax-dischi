@@ -4,9 +4,13 @@
     padding: 0;
 }
 
+html {
+    height: 100%;
+}
+
 body {
     font-family: 'Lato', sans-serif;
-    min-height: 100%;
+    height: 100%;
     width: 100%;
     color: #460273;
     background: linear-gradient(#DBC4F2 70px, #9F63F2);
@@ -54,22 +58,26 @@ header > h1 {
 .album:nth-child(5n) {
     margin-right: 0;
 }
+.album:nth-last-child(-n+5) {
+    margin-bottom: 0;
+}
 
 .album > img {
     height: 150px;
     width: 150px;
+    margin-bottom: 15px;
     object-fit: cover;
     object-position: center;
 }
 
 .album > h2 {
+    margin-bottom: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     color: #fff;
     text-shadow: 0 2px 4px #460273;
 }
 
-.album > img,
-.album > h2,
 .album > h3 {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
